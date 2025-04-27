@@ -131,9 +131,6 @@
       <userVisible>
         <common>true</common>
       </userVisible>
-      <dataPath xsi:type="form:DataPath">
-        <segments>Список.ОбластьДанныхВспомогательныеДанные</segments>
-      </dataPath>
       <toolTip>
         <key>ru</key>
         <value>Область данных</value>

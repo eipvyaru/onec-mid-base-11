@@ -839,9 +839,6 @@
       <horizontalStretch>true</horizontalStretch>
       <verticalStretch>true</verticalStretch>
       <enableStartDrag>true</enableStartDrag>
-      <rowPictureDataPath xsi:type="form:DataPath">
-        <segments>Список.DefaultPicture</segments>
-      </rowPictureDataPath>
       <searchStringLocation>Top</searchStringLocation>
       <searchControlLocation>None</searchControlLocation>
       <extInfo xsi:type="form:DynamicListTableExtInfo">
@@ -1022,9 +1019,6 @@
     <edit>
       <common>true</common>
     </edit>
-    <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
-      <segments>Список.DefaultPicture</segments>
-    </notDefaultUseAlwaysAttributes>
     <notDefaultUseAlwaysAttributes xsi:type="form:DataPath">
       <segments>Список.Ссылка</segments>
     </notDefaultUseAlwaysAttributes>
